@@ -1,10 +1,10 @@
-package me.ch1ple.pro.sky.telegram.bot;
+package pro.sky.telegrambot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class TelegramBotApplicationTests {
 
 	@Test
 	void contextLoads() {
